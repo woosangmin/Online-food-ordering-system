@@ -42,7 +42,9 @@ Start the server
   streamlit run main.py
 ```
 
+
+<The remaining tasks>
 Additional details need to be added to this README.md file.
-    - how to install conda venv and create DB user, etc
+    - how to install conda venv and create DB user, the schema etc
 
 The login feature also needs to be added to this repository.
