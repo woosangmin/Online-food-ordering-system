@@ -43,7 +43,7 @@ Start the server
 ```
 
 
-<The remaining tasks>
+[The remaining tasks]
 Additional details need to be added to this README.md file.
     - how to install conda venv and create DB user, the schema etc
 
